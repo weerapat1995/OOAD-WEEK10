@@ -20,6 +20,8 @@ md เป็นภาษา Markdown นิยมใช้ใน wiki ของ 
 
 
 ## Code ภาษาซี
+
+ตัวอย่างโค้ด
 <pre>
   ``` c
   #include <stdio.h>
@@ -29,3 +31,11 @@ md เป็นภาษา Markdown นิยมใช้ใน wiki ของ 
   }
   ```
 </pre> 
+ผลที่ได้
+  ``` c
+  #include <stdio.h>
+  Main()
+  {
+     Printf("Hello");
+  }
+  ```
