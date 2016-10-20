@@ -1,3 +1,4 @@
+```
 @startuml
 user -> ATM : InsertCard()
 user -> keypad : Input(PIN)
@@ -12,4 +13,4 @@ ATM -> Account : CheckBalance()
 account -> Monitor : ShowBalance()
 
 @enduml
-
+```
