@@ -18,3 +18,14 @@ md เป็นภาษา Markdown นิยมใช้ใน wiki ของ 
 ## Heading ระดับ 2
 ### Heading ระดับ 3
 
+
+## Code ภาษาซี
+<code>
+  ``` c
+  #include <stdio.h>
+  Main()
+  {
+     Printf("Hello");
+  }
+  ```
+  </code> 
