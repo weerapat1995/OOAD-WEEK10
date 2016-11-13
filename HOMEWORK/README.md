@@ -1,4 +1,5 @@
 # OOAD-WEEK10
+# นายวีรภัทร  แก่นจันทร์ 57030222
 Sequence Diagram
 
 ### Sequence Diagram_1
@@ -42,7 +43,7 @@ Diagram
 
 Code
 
-```
+# นายวีรภัทร  แก่นจันทร์ 57030222```
 actor Passenger
 "Passenger"->"Ticket vending machines":"Selected stations"
 "Passenger"<-"Ticket vending machines":"How many people(1-5)"
@@ -99,3 +100,5 @@ Diagram
 
 <img src="https://github.com/weerapat1995/OOAD-WEEK10/blob/master/HOMEWORK/Sequence5.png?raw=true">
 
+
+# นายวีรภัทร  แก่นจันทร์ 57030222
